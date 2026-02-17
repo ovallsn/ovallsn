@@ -11,6 +11,10 @@ Hybrid IT professional focused on cloud infrastructure, backend systems, and sec
 ## 🚀 Current Work
 Blockchain security research and technical investigations.
 
+## 📄 Resume
+- [Oriol_Valls_Systems_Administrator_Cloud_Backend.pdf](https://github.com/ovallsn/cv/blob/main/Oriol_Valls_Systems_Administrator_Cloud_Backend.pdf)
+
+
 ## 📌 Projects (Coming Soon)
 
 - Dual Timezone Clock App (Android - Kotlin) — Work in progress
