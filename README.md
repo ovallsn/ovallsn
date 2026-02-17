@@ -1,22 +1,42 @@
 # Oriol Valls — Cloud Systems & Backend
 
-Hybrid IT professional focused on cloud infrastructure, backend systems, and security.
+Cloud Systems Administrator and backend-focused IT professional with experience in enterprise infrastructure, backend platforms, and security analysis.
 
-## 🔧 Core Skills
+Currently working on blockchain security research while preparing personal projects for public release.
+
+---
+
+## ⚙️ Core Technologies
+
 - Linux & Cloud Systems Administration
-- Backend Development (Laravel, SQL, Python)
-- IT Operations & Automation
+- Backend Development (Laravel, PHP, SQL, Python)
+- Google Workspace & Microsoft 365 Administration
+- Docker & Infrastructure Automation
 - Blockchain Security Analysis
 
-## 🚀 Current Work
-Blockchain security research and technical investigations.
+---
+
+## 🚀 Featured Projects
+
+### 🕒 Dual Timezone Clock App (Android — Kotlin)
+Lightweight Android utility that allows managing multiple timezones with a dual-clock interface.  
+⚠️ Work in progress — preparing Play Store release.
+
+### 🛒 Shopify Pokémon Card Store (Client Project — Unpublished)
+Shopify storefront architecture and UX implementation for a trading card shop.  
+Project cancelled before launch — repository contains technical documentation only.
+
+---
 
 ## 📄 Resume
-- [Oriol_Valls_Systems_Administrator_Cloud_Backend.pdf](https://github.com/ovallsn/cv/blob/main/Oriol_Valls_Systems_Administrator_Cloud_Backend.pdf)
 
+- 🇬🇧 English CV: https://github.com/ovallsn/cv
+- 🇪🇸 CV en Español: https://github.com/ovallsn/cv
 
-## 📌 Projects (Coming Soon)
+---
 
-- Dual Timezone Clock App (Android - Kotlin) — Work in progress
-- Shopify Pokémon Card Store — Portfolio documentation
+## 🌍 Remote Work
 
+Open to remote opportunities in:
+
+Cloud Systems • Backend Development • IT Operations • Security
