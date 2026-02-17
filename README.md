@@ -1,16 +1,16 @@
-## Hi there 👋
+# Oriol Valls — Cloud Systems & Backend
 
-<!--
-**ovallsn/ovallsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hybrid IT professional focused on cloud infrastructure, backend systems, and security.
 
-Here are some ideas to get you started:
+## 🔧 Core Skills
+- Linux & Cloud Systems Administration
+- Backend Development (Laravel, SQL, Python)
+- IT Operations & Automation
+- Blockchain Security Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Work
+Blockchain security research and technical investigations.
+
+## 📌 Projects (Coming Soon)
+- Android Dual Timezone Clock App (Kotlin)
+- Laravel Backend Dashboard Contributions
