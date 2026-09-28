@@ -1,42 +1,46 @@
-# Oriol Valls — Cloud Systems & Backend
+# Oriol Valls — IT Support & Application Support
 
-Cloud Systems Administrator and backend-focused IT professional with experience in enterprise infrastructure, backend platforms, and security analysis.
+IT support and application-support professional with experience in systems administration, internal applications, troubleshooting and client operations.
 
-Currently working on blockchain security research while preparing personal projects for public release.
+Based in Thailand (GMT+7), available for international remote roles and B2B contracting.
 
----
+## Core skills
 
-## ⚙️ Core Technologies
+- Technical Support, Application Support and Troubleshooting
+- Linux, SQL, PHP/Laravel and REST APIs
+- Google Workspace and Microsoft 365 administration
+- Systems administration and infrastructure support
+- Documentation, case tracking and customer onboarding
+- Client operations and workflow coordination
 
-- Linux & Cloud Systems Administration
-- Backend Development (Laravel, PHP, SQL, Python)
-- Google Workspace & Microsoft 365 Administration
-- Docker & Infrastructure Automation
-- Blockchain Security Analysis
+## Selected projects
 
----
+- [Dual Timezone Clock App](https://github.com/ovallsn/dual-timezone-clock-android) — Kotlin Android utility for managing multiple time zones.
+- [Valls Solutions](https://github.com/ovallsn/vallssolutions) — Personal and company web project.
+- [CV repository](https://github.com/ovallsn/cv) — English and Spanish resumes.
 
-## 🚀 Featured Projects
+## Additional background
 
-### 🕒 Dual Timezone Clock App (Android — Kotlin)
-Lightweight Android utility that allows managing multiple timezones with a dual-clock interface.  
-⚠️ Work in progress — preparing Play Store release.
+- Blockchain security and risk analysis
+- Live-stream content creation and community management
+- Technical documentation and process coordination
 
-### 🛒 Shopify Pokémon Card Store (Client Project — Unpublished)
-Shopify storefront architecture and UX implementation for a trading card shop.  
-Project cancelled before launch — repository contains technical documentation only.
-
----
-
-## 📄 Resume
-
-- 🇬🇧 English CV: https://github.com/ovallsn/cv
-- 🇪🇸 CV en Español: https://github.com/ovallsn/cv
-
----
-
-## 🌍 Remote Work
+## Availability
 
 Open to remote opportunities in:
 
-Cloud Systems • Backend Development • IT Operations • Security
+- Technical Support
+- IT Support
+- Application Support
+- Product Support
+- Client Operations
+
+## Languages
+
+- Spanish — Native
+- Catalan — Native
+- English — C1 Advanced
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/oriolvallsn/) · [GitHub](https://github.com/ovallsn)
